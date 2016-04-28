@@ -1,0 +1,47 @@
+body {
+    background-color: #0c0c0c;
+}
+.header h1 {
+	color: #d0d0d0;
+	font-family:'shift', sans-serif;
+	background-color: #323232;
+	padding: 25px;
+
+}
+
+
+.nav a:link { 
+	color: #b2b2b2
+	}
+	
+.nav a:visited { 
+	color: #white;
+	}
+	
+.nav a:hover	{ 
+	color: #white;
+	}
+
+
+
+	
+.nav {
+	font-size: 20px;
+	background-color: #323232;
+}
+
+
+
+.nav {
+display: inline;
+list-style-type: none;
+}
+
+.jumbotron2 {
+width: 600px;
+height: 400px;
+
+background-image: url(http://blog.froont.com/content/images/2014/12/01-Tab_keys-1.gif);
+}
+
+}

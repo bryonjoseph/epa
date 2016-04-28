@@ -1,0 +1,196 @@
+body {
+ background-color: #0c0c0c;
+ margin: 0;
+ padding: 0;
+ height: 100%;
+
+}
+.header h1 {
+	color: #d0d0d0;
+	font-family:'Blue Highway', sans-serif;
+	background-color: #333333;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	 margin:0;
+	 font-size: 70px;
+
+
+}
+
+
+.nav a:link { 
+	color: white;
+	background-color: #4d4d4d;
+	}
+	
+.nav a:visited { 
+	color: white;
+	}
+	
+.nav a:hover	{ 
+	color: #b3cccc;
+	}
+
+
+
+	
+.nav {
+	font-size: 20px;
+}
+
+.nav li {
+display: inline;
+padding-bottom: 4px;
+font-family:'Arial Rounded MT Bold', sans-serif;
+padding-top: 4px;
+margin: 2px 10px 2px 10px;
+background-color: #404040;
+padding-left: 9px;
+padding-right: 9px;
+border-bottom-color: white;
+border-bottom: 10px;
+}
+
+h2 {
+	color: white;
+	font-size: 46px;
+	font-family:'Arial Rounded MT Bold', sans-serif;
+	padding-left: 50px;
+	padding-right: 5px;
+	width: 250px;
+	background-color: #404040;
+}
+
+.jumbotron {
+width: 1400px;
+height: 400px;
+margin-left: auto;
+margin-right: auto;
+background-image: url(http://blog.froont.com/content/images/2014/12/01-Tab_keys-1.gif);
+margin-bottom: 160px;
+margin-top: 100px;
+
+}
+
+.nav a {
+text-decoration: none; 
+}
+
+.jumbotron2 {
+width: 425px;
+height: 430px;
+margin-left:auto;
+margin-right:auto;
+background-image: url(http://cf.chucklesnetwork.com/items/3/6/2/2/4/original/i-dont-always-know-where-i-am-but-when-i-do-its-because-i-am-sob.jpg);
+margin-bottom: 160px;
+}
+
+.jumbotron4 {
+	font-family:'Arial Rounded MT Bold', sans-serif;
+	color: white;
+	font-size: 78px;
+	width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #323232;
+	
+}
+
+.jumbotron5 {
+	color: white;
+	background-color: #262626;
+	font-family:'Arial Rounded MT Bold', sans-serif;
+	font-size: 18px;
+	float: left;
+	width: 600px;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+	margin-bottom: 10px;
+
+}
+
+.code{
+width: 800px;
+height: 400px;
+background-image: url(http://iamdeepa.com/blog/wp-content/uploads/2011/04/matrix-770x615.png);
+float: right;
+margin-right: 80px;
+}
+
+.jumbotron8 {
+width: 600px;
+color: white;
+height: 800px;
+font-family: 'Arial Rounded MT Bold', sans-serif;
+font-size: 18px;
+float: left;
+background-color: #262626;
+padding: 10px;
+margin: 10px;
+margin-left: 55px;
+}
+
+
+
+p2 {
+	margin-left: 40px; 
+}
+
+p3 {
+	margin-left: 40px; 
+}
+
+.amerson {
+background-image: url(http://cdn.fansided.com/wp-content/blogs.dir/136/files/2015/12/dorial-green-beckham-david-amerson-nfl-oakland-raiders-tennessee-titans.jpg);
+float: right;
+width: 800px;
+height: 400px;
+margin-right: 80px;
+margin-top: 10px;
+}
+
+.marth {
+background-image: url(http://giant.gfycat.com/SophisticatedPleasingCarpenterant.gif);
+float: right;
+width: 640px;
+height: 400px;
+margin-right: 240px;
+margin-top: 10px;
+margin-bottom: 200px;
+}
+
+.jumbotron9 {
+	font-family:'Arial Rounded MT Bold', sans-serif;
+	color: white;
+	font-size: 18px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #323232;
+	margin-bottom: 320px;
+	padding: 8px;
+	
+}
+
+p9 {
+	margin-left: 40px; 
+
+}
+
+
+.footer {
+	background-color: #0d0d0d;
+	display: block;
+    text-align: center;
+    font-size: 0.75em;
+    bottom:0;
+	left: 0;
+    width: 100%;
+    height: 30px;
+	margin-top: 100px;
+    position: fixed;
+   
+}
+
+
